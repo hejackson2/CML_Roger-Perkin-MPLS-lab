@@ -1,2 +1,2 @@
-# CML_Roger-Perkin-MPLS-lab
-CML build out of Roger Perkin's MPLS lab
+# Roger Perkin's MPLS lab
+This is a basic MPLS lab for use with [Cisco Modeling Labs (CML)](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html), taken from Roger Perkin's youtube channel.   The video can be found [here](https://www.youtube.com/watch?v=V9ij7se6VDw).   His web page which details this lab can be found [here](https://www.rogerperkin.co.uk/ccie/mpls/cisco-mpls-tutorial/).
